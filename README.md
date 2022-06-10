@@ -15,3 +15,5 @@ Here are the steps to install LinkShort:
 `conn`: The MySQLi connection. No need to change this variable!
 4. Upload to your web server. **Make sure you have a suitable short domain name!**
 5. Try it out!
+## Important Legal Notice
+**You may not remove _or_ modify the attribution to LinkShort from this product!**
