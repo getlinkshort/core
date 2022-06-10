@@ -17,3 +17,4 @@ Here are the steps to install LinkShort:
 5. Try it out!
 ## Important Legal Notice
 **You may not remove _or_ modify the attribution to LinkShort from this product!**
+&copy; 2022. All rights reserved.
