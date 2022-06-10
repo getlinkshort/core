@@ -1,5 +1,6 @@
 # LinkShort
-## The Open-Sourced Link Shortener
+**PHP 8 Ready!**
+## The Open-Sourced PHP Link Shortener
 Welcome to LinkShort, the open-sourced link shortener.
 Here are the steps to install LinkShort:
 1. Create a new MySQL database.
