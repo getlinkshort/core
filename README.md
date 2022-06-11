@@ -7,21 +7,21 @@ Here are the steps to install LinkShort:
 2. Run the SQL file `INSTALL.sql` in your MySQL database
 3. Configure `init.php`:
 
-`name`: The name of your link shortener. Not used for much, but this variable might be used for more in future versions.
+> `name`: The name of your link shortener. Not used for much, but this variable might be used for more in future versions.
+> 
+> `shorturl`: The URL of your link shortener. Make sure LinkShort is installed on that URL!
+> 
+> `db_host`: The host of your database.
+> 
+> `db_user`: The username of your database.
+> 
+> `db_pass`: The password of your database.
+> 
+> `db_name`: The name of your database.
+> 
+> `conn`: The MySQLi connection. No need to change this variable!
 
-`shorturl`: The URL of your link shortener. Make sure LinkShort is installed on that URL!
-
-`db_host`: The host of your database.
-
-`db_user`: The username of your database.
-
-`db_pass`: The password of your database.
-
-`db_name`: The name of your database.
-
-`conn`: The MySQLi connection. No need to change this variable!
-
-4. Upload to your web server. Remember to show hidden files and make sure you also move the hidden files. **THE LINK SHORTENER WILL NOT WORK WITHOUT THE `.htaccess` FILE!** _Make sure you have a suitable short domain name!_
+4. Upload to your web server. Remember to show hidden files and make sure you also move the hidden files. **⚠️THE LINK SHORTENER WILL NOT WORK WITHOUT THE `.htaccess` FILE!⚠️** _Make sure you have a suitable short domain name!_
 5. Try it out!
 ## Important Legal Notice
 **You may not remove _or_ modify the attribution to LinkShort from this product!**
