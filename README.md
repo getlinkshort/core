@@ -33,6 +33,10 @@ We reserve the right to request that you remove your instance at any time for an
 You are responsible for all links transmitted through your instance. We take no responsibility or liability whatsoever for any harm and/or damage caused through this product.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+THIS PRODUCT SHALL NOT BE REDISTRIBUTED OR REPACKAGED IN ANY OTHER PRODUCT!
+
+THIS PRODUCT SHALL NOT BE USED FOR COMMERCIAL USE!
 ```
 ## Why Open Source It?
 This product was open sourced to show how it respects your privacy and to be transparent about your privacy.
