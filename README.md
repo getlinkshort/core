@@ -3,7 +3,7 @@
 ## The Open-Sourced PHP Link Shortener
 Welcome to LinkShort, the open-sourced link shortener.
 Here are the steps to install LinkShort:
-1. Create a new MySQL database.
+1. Create a new MySQL database and [download LinkShort](https://github.com/fakerybakery/LinkShort/releases/tag/linkshort).
 2. Run the SQL file `INSTALL.sql` in your MySQL database
 3. Configure `init.php`:
 
