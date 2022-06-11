@@ -18,5 +18,18 @@ Here are the steps to install LinkShort:
 5. Try it out!
 ## Important Legal Notice
 **You may not remove _or_ modify the attribution to LinkShort from this product!**
+```
+If you run this product on your own web server, you must first make a pull request with your instance. You may only make your instance of this product publicly available _after_ the pull request is merged. If it is not merged, you may not publish your instance.
 
-&copy; 2022. All rights reserved.
+We reserve the right to request that you remove your instance at any time for any reason. After the request, you will have 24 (twenty-four) hours to remove your instance. After this time, you MUST have your instance removed (deleted) permanently from your web server.
+```
+## Why Open Source It?
+This product was open sourced to show how it respects your privacy and to be transparent about your privacy.
+## How do I Report a Security Vulnerability?
+Please email me at me@mrfake.name! Thank you!
+## Instances
+
+There are currently no running instances of LinkShort. If you run one, make a pull request to this file to add your instance!
+
+---
+&copy; 2022. All rights reserved. Created with :hearts: in the 🇺🇸!
