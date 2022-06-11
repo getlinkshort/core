@@ -208,7 +208,7 @@ include 'init.php';
                     if (xhr.readyState == 4 && xhr.status == 200) {
                         document.getElementById('link').value = xhr.responseText;
                         document.getElementById('link').select();
-                        document.execCommand('copy');
+                        //document.execCommand('copy'); - Uncomment this line if you want the system to automatically copy the shortened URL when it is shortened. Please note that if there are errors (e.g. "Oops! You can't shorten that URL!"), those errors will also be copied.
                     }
                 }
                 xhr.open('GET', 's.php?u=' + encodeURIComponent(document.getElementById('link').value));
