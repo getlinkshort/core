@@ -33,8 +33,12 @@ if (!empty($_GET['a'])) {
         die('Your alias must be between 3 and 15 characters long!');
     }
 }
-if ((strtolower($_GET['a']) == 'privacy') || (strtolower($_GET['a']) == 'terms')) {
-    die('Sorry, your alias is reserved.');
+
+$reservedpages = ['privacy', 'about', 'terms', 'contact', 'page', 'p', 'u', 'l', 'ourstory'];
+foreach($reservedpages as $page) {
+    if (strtolower($_GET['a']) == $page) {
+        die('Sorry, your alias is reserved!');
+    }
 }
 if (!empty($_GET['u'])) {
     if (substr($_GET['u'], 0, strlen($shorturl)) === $shorturl) {
