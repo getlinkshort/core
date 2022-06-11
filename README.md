@@ -29,6 +29,10 @@ Here are the steps to install LinkShort:
 If you run this product on your own web server, you must first make a pull request with your instance. You may only make your instance of this product publicly available _after_ the pull request is merged. If it is not merged, you may not publish your instance.
 
 We reserve the right to request that you remove your instance at any time for any reason. After the request, you will have 24 (twenty-four) hours to remove your instance. After this time, you MUST have your instance removed (deleted) permanently from your web server.
+
+You are responsible for all links transmitted through your instance. We take no responsibility or liability whatsoever for any harm and/or damage caused through this product.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 ## Why Open Source It?
 This product was open sourced to show how it respects your privacy and to be transparent about your privacy.
