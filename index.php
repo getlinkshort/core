@@ -219,7 +219,7 @@ include 'init.php';
 
     </script>
     <hr>
-    <p><a href="privacy">privacy</a> - <a href="terms">terms</a> - <a href="javascript:alert('Email: me [ at ] mrfake [ dot ] name!')">contact</a> - &copy; 2022. All rights reserved. Proudly made in the USA! Thanks for using <span class="logosmall1">Link</span><span class="logosmall2">Short</span>!</p>
+    <p><a href="privacy">privacy</a> - <a href="terms">terms</a> - <a href="javascript:alert('Email me [ at ] mrfake [ dot ] name!')">contact</a> - &copy; 2022. All rights reserved. Proudly made in the USA! Powered by <span class="logosmall1">Link</span><span class="logosmall2">Short</span>, an open-sourced project on <a href="https://github.com/fakerybakery/LinkShort">GitHub</a>!</p>
 </body>
 
 </html>
