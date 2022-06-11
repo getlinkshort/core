@@ -32,6 +32,9 @@ if (!empty($_GET['a'])) {
     if ((strlen($alias) < 3) || (strlen($alias) > 15)) {
         die('Your alias must be between 3 and 15 characters long!');
     }
+    if (!preg_match('/^[a-zA-Z0-9_]+$/', $alias)) {
+        die('Your alias contains invalid characters! Letters, numbers, and underscores only!');
+    }
 }
 
 $reservedpages = ['privacy', 'about', 'terms', 'contact', 'page', 'p', 'u', 'l', 'ourstory'];
