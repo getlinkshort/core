@@ -33,7 +33,7 @@ if (!empty($_GET['u'])) {
     if (filter_var($_GET['u'], FILTER_VALIDATE_URL)) {
         $id = getID();
         $stmt = $conn->prepare("INSERT INTO link (alias, url, ip) VALUES (?, ?, ?)");
-        $url = strtolower($_GET['u']);
+        $url = ($_GET['u']);
         $stmt->bind_param('sss', $id, $url, $ip);
         $stmt->execute();
         echo $shorturl . $id;
