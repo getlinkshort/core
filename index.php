@@ -172,7 +172,11 @@ include 'init.php';
         <p><b>Your long link to</b> <span class="logosmall1">Link</span><span class="logosmall2">Short</span>:</p>
         <div class="input">
             <input type="url" name="url" placeholder="https://" id="link" required autofocus>
-            <button type="submit">&rsaquo;</button>
+            <button type="submit" tabindex="-1">&rsaquo;</button>
+        </div>
+        <p><small>Custom alias? (leave blank for random)</small></p>
+        <div class="inputalias">
+            <input type="text" name="alias" id="alias" autofocus maxlength="15">
         </div>
         <p>By shortening your link, you agree to the <a href="terms">terms of service</a> and <a href="privacy">privacy policy</a>.</p>
     </form>
