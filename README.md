@@ -1,4 +1,4 @@
-# LinkShort
+# LinkShort (aka [rdr.fyi](https://rdr.fyi/))
 **PHP 8 Ready! Available for public use on [rdr.fyi](https://rdr.fyi/)**
 ## The Open-Sourced PHP Link Shortener
 Welcome to LinkShort, the open-sourced link shortener.
