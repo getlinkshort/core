@@ -1,5 +1,5 @@
 # LinkShort (aka [rdr.fyi](https://rdr.fyi/))
-**PHP 8 Ready! Available for public use on [rdr.fyi](https://rdr.fyi/)**
+**PHP 8 Ready! Available for public use on [rdr.fyi](https://rdr.fyi/)! [GET THE CHROME EXTENSION](https://chrome.google.com/webstore/detail/linkshort/gkkakbcefmklabnpefmpbjngidibdbdi)!!!**
 ## The Open-Sourced PHP Link Shortener
 Welcome to LinkShort, the open-sourced link shortener.
 Here are the steps to install LinkShort:
