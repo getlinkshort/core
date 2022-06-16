@@ -2,6 +2,9 @@
 **PHP 8 Ready! Available for public use on [rdr.fyi](https://rdr.fyi/)! [GET THE CHROME EXTENSION](https://chrome.google.com/webstore/detail/linkshort/gkkakbcefmklabnpefmpbjngidibdbdi)!!!**
 ## The Open-Sourced PHP Link Shortener
 Welcome to LinkShort, the open-sourced link shortener.
+
+**Check out our blog [here](https://rdr.fyi/blog)!**
+
 Here are the steps to install LinkShort:
 1. Create a new MySQL database and [download LinkShort](https://github.com/fakerybakery/LinkShort/releases/tag/linkshort).
 2. Run the SQL file `INSTALL.sql` in your MySQL database
