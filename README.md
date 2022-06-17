@@ -1,3 +1,6 @@
+| :warning: Please do not download the code from the green Code button and the "Download ZIP" button. This GitHub repo has the latest features, but they may be unstable. Please instead [download our latest release, v1.9.2-beta](https://github.com/getlinkshort/LinkShort/releases/tag/v1.9.2). :warning:
+| ---
+
 # LinkShort (aka [rdr.fyi](https://rdr.fyi/))
 **PHP 8 Ready! Available for public use on [rdr.fyi](https://rdr.fyi/)! [GET THE CHROME EXTENSION](https://chrome.google.com/webstore/detail/linkshort/gkkakbcefmklabnpefmpbjngidibdbdi)!!!**
 ## The Open-Sourced PHP Link Shortener
