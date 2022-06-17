@@ -68,6 +68,24 @@ include 'init.php';
             max-width: 700px;
             margin: 0 auto;
         }
+        
+        .inputalias {
+            border: 2px solid #787878;
+            padding: 5px;
+            border-radius: 100px;
+            position: relative;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        
+        .inputalias input {
+            padding: 0;
+            margin: 5px 10px;
+            font-size: 1rem;
+            outline: none;
+            width: calc(100% - 100px);
+            border: none;
+        }
 
         .input input {
             padding: 0;
@@ -78,7 +96,7 @@ include 'init.php';
             border: none;
         }
 
-        .input:focus-within {
+        .input:focus-within, .inputalias:focus-within {
             border: 2px solid #008BFF;
         }
 
@@ -161,6 +179,22 @@ include 'init.php';
         }
         .tagline {
             color: #720021;
+        }
+        .addtochrome {
+            background: #0070FF;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 10px;
+            display: block;
+            margin: 10px 0;
+        }
+        .addtochrome:hover {
+            background: #0058C8;
+            color: white;
+        }
+        .addtochrome:active {
+            background: #00377E;
+            color: white;
         }
     </style>
 </head>
