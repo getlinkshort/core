@@ -3,6 +3,15 @@ START TRANSACTION;
 SET time_zone = "-08:00";
 
 DROP TABLE IF EXISTS `link`;
+DROP TABLE IF EXISTS `click`;
+
+CREATE TABLE `click` (
+  `id` int(11) NOT NULL,
+  `linkid` int(11) NOT NULL,
+  `ip` varchar(255) NOT NULL,
+  `date` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
 CREATE TABLE `link` (
   `id` int(11) NOT NULL,
   `alias` varchar(255) NOT NULL,
@@ -12,9 +21,15 @@ CREATE TABLE `link` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
+ALTER TABLE `click`
+  ADD PRIMARY KEY (`id`);
+
 ALTER TABLE `link`
   ADD PRIMARY KEY (`id`);
 
+
+ALTER TABLE `click`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 ALTER TABLE `link`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
