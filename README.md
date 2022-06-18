@@ -47,7 +47,7 @@ THIS PRODUCT SHALL NOT BE USED FOR COMMERCIAL USE!
 ## Why Open Source It?
 This product was open sourced to show how it respects your privacy and to be transparent about your privacy.
 ## How do I Report a Security Vulnerability?
-Please email me at me@mrfake.name! Thank you!
+Please email me at hello@rdr.fyi. If you get no response and it is important, feel free to email me@mrfake.name! Thank you!
 ## Instances
 
 There are currently no running instances of LinkShort. If you run one, make a pull request to this file to add your instance!
