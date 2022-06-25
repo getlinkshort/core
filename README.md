@@ -56,5 +56,9 @@ Please email me at hello@rdr.fyi. If you get no response and it is important, fe
 
 There are currently no running instances of LinkShort. If you run one, make a pull request to this file to add your instance!
 
+## Changelog (major changes from 1.9.2)
+
+* Minor spelling fixes in `terms/index.php`
+
 ---
 &copy; 2022. All rights reserved. Created with :hearts: in the 🇺🇸!
