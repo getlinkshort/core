@@ -80,7 +80,7 @@ include '../init.php';
     <p>You may not transmit any content or URL that contains any malware or computer virus (e.g. Trojan Horses, Worms, etc).</p>
     <p>You may not use our service to transmit or shorten any content or website that has any relation to the following:</p>
     <ul>
-        <li>Smoking or alcohaul</li>
+        <li>Smoking or alcohol</li>
         <li>Tobacco</li>
         <li>Violence</li>
         <li>Badware/Bundleware/Malware</li>
