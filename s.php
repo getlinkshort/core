@@ -68,7 +68,7 @@ if (!empty($_GET['u'])) {
                 $stmt->execute();
                 echo $shorturl . $id;
             } else {
-                die('Sorry, that alias is already taken!');
+                die('That alias is taken. Try another one.');
             }
         }
     } else {
