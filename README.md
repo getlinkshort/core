@@ -1,3 +1,5 @@
+### LinkShort Base - [LinkShort Browser Extension](https://github.com/getlinkshort/extension)
+
 | :warning: Please do not download the code from the green Code button and the "Download ZIP" button. This GitHub repo has the latest features, but they may be unstable. Please instead [download our latest release, v1.9.2-beta](https://github.com/getlinkshort/LinkShort/releases/tag/v1.9.2). :warning:
 | ---
 
