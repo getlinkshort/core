@@ -1,0 +1,3 @@
+ErrorDocument 404 "Link not found"
+RewriteRule ^(fonts|privacy|terms)($|/) - [L]
+RewriteRule ^(\w+)/?$ link.php?id=$1
